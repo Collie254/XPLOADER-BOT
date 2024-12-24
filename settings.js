@@ -59,19 +59,19 @@ global.mode = process.env.MODE || 'public';
 //=================================================//
 global.hituet = 0 
 //=================================================//
-global.autoviewstatus = process.env.AUTO_STATUS_VIEW || 'false'
+global.autoviewstatus = process.env.AUTO_STATUS_VIEW || 'true'
 
 //=================================================//
-global.autostatusreact = process.env.AUTO_STATUS_REACT || 'false'
+global.autostatusreact = process.env.AUTO_STATUS_REACT || 'true'
 
 //=================================================//
-global.anticall = process.env.ANTI_CALL || 'false'
+global.anticall = process.env.ANTI_CALL || 'true'
 
 //=================================================//
-global.welcome = process.env.WELCOME_MSG || 'false'
+global.welcome = process.env.WELCOME_MSG || 'true'
 
 //=================================================//
-global.statusemoji = process.env.STATUS_EMOJI || '🧡'
+global.statusemoji = process.env.STATUS_EMOJI || '👑'
 //Set the emoji that you want to be reacted to status
 
 //=================================================//
