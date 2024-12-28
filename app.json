@@ -61,7 +61,7 @@
       "required": true
     },
     "AUTO_STATUS_REACT": {
-      "description": "Set true to enable and false to disable auto status reaction",
+      "description": "💀",
       "value": "true",
       "required": true
     },
@@ -76,8 +76,8 @@
       "required":true
     },
     "STATUS_EMOJI": {
-      "description": "Status reaction emoji",
-      "value": "⛄",
+      "description": "💀",
+      "value": "true",
       "required": true
     },
     "TIMEZONE": {
